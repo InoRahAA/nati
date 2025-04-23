@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -400,7 +400,7 @@
         <div class="hero-content">
             <h1>Natalie is Cute</h1>
             <p class="subtitle">A tribute to her wonderful personality</p>
-            <div class="heart">??</div>
+            <div class="heart">❤️</div>
             <p>This website celebrates all the little things that make Natalie absolutely adorable!</p>
         </div>
     </section>
@@ -434,32 +434,32 @@
         <h2 class="section-title">Why Natalie is Adorable</h2>
         <div class="traits-container">
             <div class="trait-card">
-                <div class="trait-icon">??</div>
+                <div class="trait-icon">😊</div>
                 <h3 class="trait-title">Radiant Smile</h3>
                 <p>Her smile lights up every room and warms even the coldest of days.</p>
             </div>
             <div class="trait-card">
-                <div class="trait-icon">?</div>
+                <div class="trait-icon">✨</div>
                 <h3 class="trait-title">Sparkling Eyes</h3>
                 <p>Eyes that reflect her beautiful soul and tell stories without words.</p>
             </div>
             <div class="trait-card">
-                <div class="trait-icon">??</div>
+                <div class="trait-icon">🎵</div>
                 <h3 class="trait-title">Melodious Laugh</h3>
                 <p>Her laughter is contagious and sounds like the sweetest melody.</p>
             </div>
             <div class="trait-card">
-                <div class="trait-icon">??</div>
+                <div class="trait-icon">💫</div>
                 <h3 class="trait-title">Genuine Kindness</h3>
                 <p>Her kindness knows no bounds and touches everyone she meets.</p>
             </div>
             <div class="trait-card">
-                <div class="trait-icon">??</div>
+                <div class="trait-icon">🌟</div>
                 <h3 class="trait-title">Creative Spirit</h3>
                 <p>Her creativity and imagination bring color to the world around her.</p>
             </div>
             <div class="trait-card">
-                <div class="trait-icon">??</div>
+                <div class="trait-icon">💝</div>
                 <h3 class="trait-title">Loving Heart</h3>
                 <p>Her caring nature and empathy make everyone feel special.</p>
             </div>
@@ -478,7 +478,7 @@
             <span class="close-modal" id="closeModal">&times;</span>
             <h3>Special Compliment</h3>
             <p id="modalCompliment"></p>
-            <div class="heart">??</div>
+            <div class="heart">❤️</div>
         </div>
     </div>
 
@@ -486,9 +486,9 @@
         <div class="footer-content">
             <p>Made with love for Natalie</p>
             <div class="social-links">
-                <a href="#" class="social-icon">?</a>
-                <a href="#" class="social-icon">?</a>
-                <a href="#" class="social-icon">?</a>
+                <a href="#" class="social-icon">♥</a>
+                <a href="#" class="social-icon">♡</a>
+                <a href="#" class="social-icon">❤</a>
             </div>
             <p>&copy; 2025 Natalie Fan Club</p>
         </div>
@@ -556,7 +556,7 @@
                 setTimeout(() => {
                     const heart = document.createElement('div');
                     heart.classList.add('floating-heart');
-                    heart.textContent = '??';
+                    heart.textContent = '❤️';
                     heart.style.left = `${randomPosition()}%`;
                     heart.style.fontSize = `${Math.random() * 20 + 10}px`;
                     heart.style.animationDuration = `${Math.random() * 3 + 3}s`;
